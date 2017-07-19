@@ -1,5 +1,5 @@
 {
-  "name": "apod",
+  "name": "apod-cli",
   "version": "1.0.0",
   "description": "Downloading astronomy picture of the day from the command line done right!",
   "main": "cli.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodeDotJS/apod.git"
+    "url": "git+https://github.com/CodeDotJS/apod-cli.git"
   },
   "keywords": [
     "apod",
@@ -47,7 +47,7 @@
   "author": "Rishi Giri <rushforlinux@gmail.com> (http://rishigiri.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CodeDotJS/apod/issues"
+    "url": "https://github.com/CodeDotJS/apod-cli/issues"
   },
-  "homepage": "https://github.com/CodeDotJS/apod#readme"
+  "homepage": "https://github.com/CodeDotJS/apod-cli#readme"
 }
