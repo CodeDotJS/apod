@@ -1,6 +1,6 @@
 {
   "name": "apod-cli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Downloading astronomy picture of the day from the command line done right!",
   "main": "cli.js",
   "bin": {
