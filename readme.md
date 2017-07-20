@@ -1,6 +1,6 @@
 <h1 align="center">
 <img height="100px" width="100px" src="https://raw.githubusercontent.com/rishigiridotcom/rishigiri.com/60d9f35ce5b050211fe377733f8362e57566e66b/github/apod-shit.png"><br>
-<a href="https://travis-ci.org/CodeDotJS/apod"><img src="https://travis-ci.org/CodeDotJS/apod.svg?branch=master"></a>
+<a href="https://travis-ci.org/CodeDotJS/apod"><img src="https://travis-ci.org/CodeDotJS/apod-cli.svg?branch=master"></a>
 <img src="https://img.shields.io/badge/code_style-XO-5ed9c7.svg">
 </h1>
 
