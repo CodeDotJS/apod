@@ -7,7 +7,7 @@
 ## Install
 
 ```
-$ npm install --global apod
+$ npm install --global apod-cli
 ```
 
 ## Preview
